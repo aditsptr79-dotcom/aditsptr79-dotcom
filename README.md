@@ -1,39 +1,85 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:06b6d4&height=200&section=header&text=Hello,%20World!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Aditya%20Dwi&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=IT%20%7C%20CAD%20%7C%20Graphic%20Design&descSize=15&descAlignY=65&descColor=8b949e" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student;Flutter+%26+Dart+Learner;Multimedia+%26+Creative+Technology;Building+something+new..." alt="Animated typing text" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Web+%26+App+Development;CAD+%26+Product+Design;Graphic+Design+%26+Visual+Creativity;Learning+by+Building." alt="Animated introduction" />
 
 <br/>
 
-<a href="https://github.com/USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Focus-Learning-06b6d4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Interest-Multimedia-7c3aed?style=for-the-badge" />
+[![GitHub](https://img.shields.io/badge/GitHub-aditsptr79--dotcom-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditsptr79-dotcom)
+[![Focus](https://img.shields.io/badge/Focus-Technology-161b22?style=flat-square&logo=codeforces&logoColor=58A6FF)](https://github.com/aditsptr79-dotcom)
+[![Design](https://img.shields.io/badge/Creative-Design-161b22?style=flat-square&logo=figma&logoColor=58A6FF)](https://github.com/aditsptr79-dotcom)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 🎓 Informatics Engineering student
-- 📱 Learning Flutter and Dart for Android development
-- 🎨 Interested in multimedia, UI/UX, and visual design
-- 🧊 Exploring 3D modeling and rendering
-- 🚀 Building projects and learning through practice
+Hi, I'm **Aditya Dwi**, an Informatics Engineering student interested in application development, CAD, product visualization, and graphic design.
+
+I enjoy exploring how technology and visual creativity can work together to build useful applications and communicate ideas clearly.
+
+- 💻 Exploring web development with HTML, CSS, and JavaScript
+- 📱 Developing Android application concepts with Flutter and Dart
+- 📐 Creating technical drawings and product designs with AutoCAD
+- 🎨 Working with Adobe Illustrator and Adobe Photoshop
+- 🧊 Exploring 3D modeling and digital product visualization
+- 🌱 Continuously learning through practical projects and experiments
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 IT & Application Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,git,github,vscode,blender&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart&theme=dark" alt="HTML CSS JavaScript Flutter Dart" />
 
 </div>
+
+| Technology | Focus |
+|---|---|
+| HTML | Web page structure |
+| CSS | Styling and layouts |
+| JavaScript | Web interactivity |
+| Flutter | Cross-platform application development |
+| Dart | Programming language for Flutter |
+
+---
+
+## 📐 CAD & Product Design
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
+<img src="https://img.shields.io/badge/3D%20Modeling-161b22?style=for-the-badge&logo=blender&logoColor=58A6FF" alt="3D Modeling" />
+
+</div>
+
+Interested in:
+- Technical drawing and dimensional modeling
+- 3D CAD part design
+- Product form exploration
+- Digital visualization of product concepts
+
+---
+
+## 🎨 Graphic Design
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+
+</div>
+
+Interested in:
+- Vector graphics and visual assets
+- Image editing and photo manipulation
+- Layout, composition, and typography
+- Visual content for digital media
+- UI visual exploration
 
 ---
 
@@ -41,32 +87,49 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🧾 Kasir Tablet
+### 🧾 Kasir Flutter
 
-Aplikasi kasir berbasis Flutter untuk tablet Android.
+A cashier application concept designed for Android tablets.
 
-**Features**
+**Focus**
 - Product menu
 - Shopping cart
 - Automatic total calculation
+- Tablet-friendly interface
 
-[View Repository](https://github.com/USERNAME/kasir-tablet)
+[View my repositories →](https://github.com/aditsptr79-dotcom?tab=repositories)
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🎬 Multimedia Projects
+### 📐 3D Modeling
 
-Eksplorasi desain visual, video editing, dan 3D.
+Exploring CAD parts and digital product design.
 
 **Focus**
-- Visual storytelling
-- 3D modeling
-- Creative experiments
+- AutoCAD modeling
+- Technical dimensions
+- Product visualization
+- 3D design experiments
 
-[Explore My Repositories](https://github.com/USERNAME?tab=repositories)
+[View my repositories →](https://github.com/aditsptr79-dotcom?tab=repositories)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎨 UI/UX Design
+
+Exploring interface layouts and user experience.
+
+**Focus**
+- Interface structure
+- Visual hierarchy
+- Usability
+- Design consistency
+
+[View my repositories →](https://github.com/aditsptr79-dotcom?tab=repositories)
 
 </td>
 </tr>
@@ -74,36 +137,54 @@ Eksplorasi desain visual, video editing, dan 3D.
 
 ---
 
+## 🛠️ Tools & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,git,github,vscode&theme=dark" alt="Development tools" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AutoCAD-E51937?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD" />
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+
+</div>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditsptr79-dotcom&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditsptr79-dotcom&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
+<br/>
 
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" width="100%" alt="GitHub contribution snake animation" />
+<img width="90%" src="https://streak-stats.demolab.com?user=aditsptr79-dotcom&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
+## 🐍 Contribution Activity
+
 <div align="center">
 
-### 💡 Keep Learning. Keep Building.
+<img src="https://raw.githubusercontent.com/aditsptr79-dotcom/aditsptr79-dotcom/output/snake.svg" width="100%" alt="GitHub contribution snake animation" />
 
-*Every project is another step forward.*
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:312e81&height=100&section=footer" width="100%" />
+---
+
+<div align="center">
+
+### Build with purpose. Design with clarity.
+
+*Technology meets creativity.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=70&section=footer" width="100%" />
 
 </div>
