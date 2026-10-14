@@ -20,10 +20,9 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: aditsptr79-dotcom
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
 
       - name: Publish animation
         uses: crazy-max/ghaction-github-pages@v4
